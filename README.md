@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # flutter_clock_app
 
 A new Flutter project.
@@ -33,4 +32,3 @@ Clock App adalah aplikasi canggih yang dirancang untuk memberikan pengalaman pen
 - Pengaturan Kustom: Opsi untuk menyesuaikan tampilan jam, alarm, timer, dan stopwatch sesuai preferensi pengguna. Termasuk pilihan tema terang dan gelap, serta opsi kustomisasi suara.
 - Sinkronisasi Waktu: Sinkronisasi otomatis dengan server waktu internet untuk memastikan akurasi jam yang ditampilkan. Fitur ini memastikan bahwa waktu yang ditampilkan selalu tepat.
 - Notifikasi dan Suara: Pilih dari berbagai nada dering dan suara untuk alarm dan pengingat. Fitur notifikasi memastikan bahwa pengguna tidak melewatkan alarm atau pengingat penting.
->>>>>>> 0528c264dcc30ce2f36100a2e325a60d9e8dcc6d
